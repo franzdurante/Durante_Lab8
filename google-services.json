@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "220499254101",
+    "firebase_url": "https://durantelab8.firebaseio.com",
+    "project_id": "durantelab8",
+    "storage_bucket": "durantelab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220499254101:android:2b797e8d83960e9e",
+        "android_client_info": {
+          "package_name": "com.durante.franz.durante_lab8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220499254101-o8id96has6iupnvgdojtvsm079b27n5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.durante.franz.durante_lab8",
+            "certificate_hash": "384532f3902a58c50e09e2b8bb16afd121f25a41"
+          }
+        },
+        {
+          "client_id": "220499254101-4k8ibjcpg1obj9d679tth6rqe3hieh5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJp4ySQ5rYj4LpwA_r68i5rkVtw87RmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220499254101-4k8ibjcpg1obj9d679tth6rqe3hieh5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
